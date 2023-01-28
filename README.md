@@ -9,7 +9,7 @@ npm install
 
 ## Website demo
 [https://travel-website-sa0a.onrender.com/](https://travel-website-sa0a.onrender.com/)
-Use username :admin , Password :admin 
+
 
 
 Username :admin 
